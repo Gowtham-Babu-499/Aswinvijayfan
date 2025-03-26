@@ -1,0 +1,4 @@
+R = "CAPTAIN"
+s = "AMERICA"
+t = (R+s)
+print(t)
